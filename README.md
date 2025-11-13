@@ -1,6 +1,6 @@
 <div align="center">
   
-# PressPass
+# Press Pass
 
 ### Create a press pass in 60 seconds
 
