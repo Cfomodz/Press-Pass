@@ -6,7 +6,7 @@
 ![Discord](https://img.shields.io/discord/425182625032962049)
 
 
-<img src="https://github.com/user-attachments/assets/67f61972-1513-4247-a5fc-f264f5c89537" alt="label-writer" width="400"/>
+<img src="https://github.com/user-attachments/assets/67f61972-1513-4247-a5fc-f264f5c89537" alt="label-writer" width="300"/>
 
 ### Create a press pass in 60 seconds
 
