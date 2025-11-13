@@ -22,7 +22,12 @@ You can adapt this tool according to its license.
 
 ---
 
-🆘 **Have a specific need?**  
+Example output:
+
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/aec69b21-9183-40cc-858c-7d84fb930837" />
+
+
+🆘 **Need something?**  
 
 Drop an issue, and I may just automate it!  
 
